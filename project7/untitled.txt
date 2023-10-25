@@ -1,0 +1,7 @@
+Natalie Kemper
+
+Run the jupyter notebook files as you would normally.
+
+SID: 3034516759
+
+I commented and uncommented out the modifications for 4f, 4g.
